@@ -28,7 +28,7 @@
 <h2>Velké projekty na kterých pracuji nebo spolupracuji </h2>
 
 <p>
-    "<img width="320px" src="/assets/img/mw.png" alt="MUJIWA" />
+    <img width="320px" src="/assets/img/mw.png" alt="MUJIWA" />
     <img width="320px" src="/assets/img/hiyori.png" alt="Hiyori" />
 </p>
 
