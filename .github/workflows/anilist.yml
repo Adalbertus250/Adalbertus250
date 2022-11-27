@@ -1,0 +1,21 @@
+name: Anilist to my Readme
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-anilist:
+    name: Update z mého profilu anilistu
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v2
+      - name: Anilist readme workflow
+        uses: pxseu/anilist-readme@v1.4.2
+        with:
+          user_id: "339253"
+          max_post_count: "15"
+          commit_message: "Můj mazlik provdel update v mém readme (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
+          commit_username: "Anilist updater dog"
+          commit_email: "imgodboy@example.com"
+          timezone: "UTC"
