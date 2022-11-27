@@ -12,19 +12,6 @@
      <a href="https://instagram.com/adalbertus250"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=INSTAGRAM&message=odkaz&color=bd2c00" alt="Adalbertus Instagram"/></a>
 </p>
 
-<h2>Feed z mého profilu na Anilistu
-
-<details>
-<summary>Feeds z anilistu</summary>
-
-## Anilist feeds
-
-<!-- ANILIST_ACTIVITY:start -->
-
-<!-- ANILIST_ACTIVITY:end -->
-
-</details>
-
 <h2 >Moje statistiky</h2>
 
 <p >
