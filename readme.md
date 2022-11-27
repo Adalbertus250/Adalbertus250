@@ -21,15 +21,15 @@
 <h2>Připnuté projekty</h2>
 
 <p>
-    <a href="https://github.com/Adalbertus250/MUJIWA"><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=adalbertus250&repo=MUJIWA&show_icons=true&theme=tokyonight" alt="MUJIWA Repository" /></a>
-    <a href="https://github.com/Adalbertus250/portfolio"><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=adalbertus250&repo=portfolio&show_icons=true&theme=tokyonight" alt="Portfolio repository" /></a>
+    <a href="https://github.com/Adalbertus250/MUJIWA"><img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=adalbertus250&repo=MUJIWA&show_icons=true&theme=tokyonight" alt="MUJIWA Repository" /></a>
+    <a href="https://github.com/Adalbertus250/portfolio"><img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=adalbertus250&repo=portfolio&show_icons=true&theme=tokyonight" alt="Portfolio repository" /></a>
 </p>
 
 <h2>Velké projekty na kterých pracuji nebo spolupracuji </h2>
 
 <p>
-    <img width="320px" src="/assets/img/mw.png" alt="MUJIWA" />
-    <img width="320px" src="/assets/img/hiyori.png" alt="Hiyori" />
+    <img width="420px" src="/assets/img/mw.png" alt="MUJIWA" />
+    <img width="420px" src="/assets/img/hiyori.png" alt="Hiyori" />
 </p>
 
 <h2>Nejvíce používané jazyky (v rámci githubu)</h2>
