@@ -1,1 +1,3 @@
-Welcome to my profile.
+<p align="center">
+    <img src="/assets/img/banner.png" alt="Adalbertus Banner" />
+</p>
