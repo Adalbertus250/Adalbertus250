@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalbertus250&show_icons=true&theme=tokyonight&layout=compact" alt="Top langs"
 </p>
 
-<h2>Cute hit counter</h2>
+<h2>Cute neko hit counter ( =ω=)..nyaa</h2>
 
 <p>
    <img src="https://count.getloli.com/get/@Adalbertus250?theme=gelbooru" alt="Hit counter" />
