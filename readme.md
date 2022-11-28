@@ -41,5 +41,5 @@
 <h2>Cute neko hit counter ( =ω=)..nyaa</h2>
 
 <p>
-   <img src="https://count.getloli.com/get/@Adalbertus250?theme=gelbooru" alt="Hit counter" />
+   <img src="https://count.ayaya.beauty/get/@Adalbertus250?theme=gelbooru" alt="Hit counter" />
 </p>
