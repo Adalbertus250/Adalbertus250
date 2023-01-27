@@ -21,7 +21,7 @@
 <h2>Připnuté projekty</h2>
 
 <p>
-    <a href="https://github.com/Adalbertus250/MUJIWA"><img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=adalbertus250&repo=MUJIWA&show_icons=true&theme=tokyonight" alt="MUJIWA Repository" /></a>
+    <a href="https://github.com/PROJECT-MUJIWA/MUJIWA"><img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=PROJECT-MUJIWA&repo=MUJIWA&show_icons=true&theme=tokyonight" alt="MUJIWA Repository" /></a>
     <a href="https://github.com/Adalbertus250/portfolio"><img width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=adalbertus250&repo=portfolio&show_icons=true&theme=tokyonight" alt="Portfolio repository" /></a>
 </p>
 
