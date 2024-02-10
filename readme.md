@@ -5,7 +5,8 @@
 <h2>Sociální sítě</h2>
 
 <p>
-    <a href="https://adalbertus.dev">
+    <!-- Web je odstaven, pracuje se na novém webu -->
+    <a href="#">
         <img src="https://img.shields.io/static/v1?label=WEB&message=odkaz&style=for-the-badge&color=blue" alt="Web" />
     </a>
     <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=DISCORD&message=odkaz&color=5865F2" alt="DISCORD PROJECT MUJIWA"/></a>
